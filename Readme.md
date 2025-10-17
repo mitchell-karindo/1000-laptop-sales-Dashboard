@@ -32,12 +32,6 @@ This interactive dashboard is powered by **real-world e-commerce data** and aims
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Dashboard Preview](./assets/Data-insight-1000flipkart.jpg)
-
----
-
 ## 🧠 Insights from the Dashboard
 
 - Most laptops in the dataset fall within **mid-range pricing**.  
